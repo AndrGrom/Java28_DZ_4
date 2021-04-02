@@ -22,5 +22,6 @@ public class Main {
         rec2.printArea();
         rec2.printRectangleKind();
         System.out.println(rec2.isTheSameRectangle(rec));
+
     }
 }
